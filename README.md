@@ -3,7 +3,8 @@ Hi, my name is Tim, aka 6t41m0ct5, aka The Math Guy, aka PrimeLoverGuy
 What i love and interested/mastered in: CTF (Crypto,OSINT), Cryptography (RSA, Primes, Factorization, Approximations), Math (NT,CS), Programming (Python)
 
 #Programming
-5 Years of Python
+5 Years of Python\
+![Codewars profile](https://github.com/user-attachments/assets/7fad5f0e-7454-4714-9089-a6b2a8c74247)\
 Loved library's: cryptodome(rsa, duh), sympy(<3), matplotlib(learning)
 Love to watch:
 @Tsoding ,idk why but when i watch him i have a +100 to efficiency
@@ -32,6 +33,4 @@ Was create some templates () for Cryptool2 in constructor, thinking about creati
 I was homeschooling from 4th grade\
 I learn English from watching YouTube videos from math and just trending videos and my loved YouTubers to combine math and typical laguage, and master it for 7 years now!\
 My loved unsolved conjecture - Collatz \
-Was want to create a tool for rsa, but when i search Github i remember that rsactftool is already here...\
-
-![f](https://github.com/user-attachments/assets/7fad5f0e-7454-4714-9089-a6b2a8c74247)
+Was want to create a tool for rsa, but when i search Github i remember that rsactftool is already here...
